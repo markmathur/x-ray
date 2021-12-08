@@ -9,11 +9,11 @@
     "email": "matt@lapwinglabs.com"
   },
   "contributors": [
-   "Paul Barrett",
-   "Kiko Beats <josefrancisco.verdu@gmail.com>",    
-   "Fabien Franzen <info@atelierfabien.be>",
-   "Wah Loon Keng <kengzwl@gmail.com>",
-   "Daniel Lathrop <daniel.lathrop@gmail.com>"
+    "Paul Barrett",
+    "Kiko Beats <josefrancisco.verdu@gmail.com>",
+    "Fabien Franzen <info@atelierfabien.be>",
+    "Wah Loon Keng <kengzwl@gmail.com>",
+    "Daniel Lathrop <daniel.lathrop@gmail.com>"
   ],
   "repository": {
     "type": "git",
@@ -47,7 +47,6 @@
   "devDependencies": {
     "coveralls": "3.0.6",
     "istanbul": "0.4.5",
-    "mocha": "~6.1.4",
     "mocha-lcov-reporter": "1.3.0",
     "multiline": "1.0.2",
     "rimraf": "3.0.0",
