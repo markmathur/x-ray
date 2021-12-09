@@ -9,11 +9,11 @@
     "email": "matt@lapwinglabs.com"
   },
   "contributors": [
-   "Paul Barrett",
-   "Kiko Beats <josefrancisco.verdu@gmail.com>",    
-   "Fabien Franzen <info@atelierfabien.be>",
-   "Wah Loon Keng <kengzwl@gmail.com>",
-   "Daniel Lathrop <daniel.lathrop@gmail.com>"
+    "Paul Barrett",
+    "Kiko Beats <josefrancisco.verdu@gmail.com>",
+    "Fabien Franzen <info@atelierfabien.be>",
+    "Wah Loon Keng <kengzwl@gmail.com>",
+    "Daniel Lathrop <daniel.lathrop@gmail.com>"
   ],
   "repository": {
     "type": "git",
@@ -45,6 +45,7 @@
     "x-ray-parse": "~1.0.1"
   },
   "devDependencies": {
+    "chai": "^4.3.4",
     "coveralls": "3.0.6",
     "istanbul": "0.4.5",
     "mocha": "~6.1.4",
